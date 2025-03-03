@@ -19,8 +19,8 @@ use Throwable;
 
 abstract class UnitTestCase extends MockeryTestCase
 {
-    private EventBus|MockInterface|null $eventBus = null;
-    private MockInterface|UuidGenerator|null $uuidGenerator = null;
+    private EventBus&MockInterface $eventBus;
+    private MockInterface&UuidGenerator $uuidGenerator;
 
     protected function mock(string $className): MockInterface
     {
