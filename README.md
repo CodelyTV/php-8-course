@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">
-    {COURSE_EMOJI} {COURSE_NAME_IN_ENGLISH}
+    🐘 PHP 8: New Features and Examples for the Real World™️
 </h1>
 
 <p align="center">
@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-    {COURSE_SUMMARY_IN_ENGLISH}
+    Migrate your applications to PHP 8 step by step, achieve more maintainable tests thanks to Named Arguments, simpler Value Objects with Constructor Property Promotion, replace PECL (deprecated), and much more. 🤟
 </p>
 
 <p align="center">
-  <a href="https://github.com/CodelyTV/{REPOSITORY_NAME}/stargazers">Stars are welcome 😊</a><br><br>
-  Course (Spanish): <a href="{COURSE_URL}">{COURSE_NAME_IN_SPANISH}</a>
+  <a href="https://github.com/CodelyTV/php-8-course/stargazers">Stars are welcome 😊</a><br><br>
+  Course (Spanish): <a href="https://pro.codely.com/library/php-8-novedades-y-ejemplos-para-el-mundo-realtm-64204/191190/about/">PHP 8: Novedades y ejemplos para el Mundo Real™️</a>
 </p>
